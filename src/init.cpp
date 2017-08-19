@@ -805,6 +805,7 @@ ServiceFlags nLocalServices = NODE_NETWORK;
 
 } // namespace
 
+// https://gxnotes.com/article/31268.html
 [[noreturn]] static void new_handler_terminate()
 {
     // Rather than throwing std::bad-alloc if allocation fails, terminate

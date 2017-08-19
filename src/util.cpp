@@ -842,7 +842,14 @@ void SetupEnvironment()
     // usage in our usage. Work around it by setting the maximum number of
     // arenas to 1.
     if (sizeof(void*) == 4) {
-        mallopt(M_ARENA_MAX, 1);
+        // 参考http://man7.org/linux/man-pages/man3/mallopt.3.html
+        // 参考http://my.huhoo.net/archives/2010/05/malloptmallocnew.html
+        // 最大创建arena个数限制, arena代表malloc可以使用的一个内存池，是线程安全的，所以要权衡线程数和arena个数
+        // arena个数越多，每个线程的竞争就会越少，但是内存使用就会越多
+        // 默认为0，意味着arena个数由M_ARENA_TEST决定
+        // 这里如果是32位系统，就设置arenas个数为1
+        // 默认，从glibc 2.10开始，C库将会为每个核创建两个arenas堆，这个会导致占用过多的虚拟内存空间
+        mallopt(M_ARENA_MAX, 1); 
     }
 #endif
     // On most POSIX systems (e.g. Linux, but not BSD) the environment's locale
@@ -851,13 +858,16 @@ void SetupEnvironment()
     try {
         std::locale(""); // Raises a runtime error if current locale is invalid
     } catch (const std::runtime_error&) {
-        setenv("LC_ALL", "C", 1);
+        setenv("LC_ALL", "C", 1); // C stands for the C programming language. It is a synonym for the POSIX locale.
     }
 #endif
     // The path locale is lazy initialized and to avoid deinitialization errors
     // in multithreading environments, it is set explicitly by the main thread.
     // A dummy locale is used to extract the internal default locale, used by
     // fs::path, which is then used to explicitly imbue the path.
+    // http://www.boost.org/doc/libs/1_53_0/libs/filesystem/doc/reference.html#path-imbue
+    // fs::path:imbue作用是将参数提供的loc保存为默认的locale(所有path类型的对象)
+    // 返回值为之前默认的locale(所有path类型的对象)
     std::locale loc = fs::path::imbue(std::locale::classic());
     fs::path::imbue(loc);
 }
