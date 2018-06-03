@@ -5,7 +5,7 @@
 
 让我们直接来使用一下，从简单的基本类型到复杂的类结构。
 
-# 基本类型
+## 基本类型测试
 ```c++
 BOOST_AUTO_TEST_CASE(base_data_type)
 {
@@ -36,7 +36,7 @@ BOOST_AUTO_TEST_CASE(base_data_type)
 }
 ```
 
-# 类结构
+## 类结构测试
 ```c++
 class Simple
 {
@@ -87,7 +87,7 @@ CDataStream
 字面上意思是个数据流，可以往里面填充数据，也可以导出数据。
 
 
-# 操作符<<方法
+### 操作符<<方法
 实际上调用的是Serialize方法
 
 ```c++
@@ -100,10 +100,10 @@ CDataStream& operator<<(const T& obj)
 }
 ```
 
-## Serialize方法
+### Serialize方法
 一系列针对各种数据类型的模板函数，定义在serialize.h文件
 
--基本类型的实现
+- 基本类型的实现
 ```c++
 template<typename Stream> inline void Serialize(Stream& s, char a    ) { ser_writedata8(s, a); } // TODO Get rid of bare char
 template<typename Stream> inline void Serialize(Stream& s, int8_t a  ) { ser_writedata8(s, a); }
@@ -121,7 +121,7 @@ template<typename Stream> inline void Unserialize(Stream& s, bool& a) { char f=s
 ```
 
 - 字符串类型，会将该类型实际占用的字节数提前写入数据流，然后写入字符串内容
-- 容器类型，会把容器元素个数先写入数据流，然后循环写入容器内元素
+```
 ```c++
 /**
  * string
@@ -133,8 +133,9 @@ void Serialize(Stream& os, const std::basic_string<C>& str)
     if (!str.empty())
         os.write((char*)&str[0], str.size() * sizeof(str[0]));
 }
-
-
+```
+- 容器类型，会把容器元素个数先写入数据流，然后循环写入容器内元素
+```c++
 /**
  * vector
  */
@@ -195,7 +196,7 @@ void Serialize(Stream& os, const std::set<K, Pred, A>& m)
 }
 ```
 
--指针类型
+- 指针类型
 ```c++
 /**
  * unique_ptr
@@ -216,7 +217,7 @@ Serialize(Stream& os, const std::shared_ptr<const T>& p)
 }
 ```
 
--非特化类型实现，直接调用对应类型的Serialize方法
+- 非特化类型实现，直接调用对应类型的Serialize方法
 ```c++
 /**
  * If none of the specialized versions above matched, default to calling member function.
@@ -236,7 +237,7 @@ template<typename Stream> inline void ser_writedata8(Stream &s, uint8_t obj)
 }
 ```
 
-#write函数的实现
+### write函数的实现
 
 直接调用了内部成员vch的insert方法
 ```c++
@@ -247,7 +248,7 @@ void write(const char* pch, size_t nSize)
 }
 ```
 
-#vch的定义
+### vch的定义
 
 vch是一个自定义allocator(zero_after_free_allocator)的vector容易
 ```c++
@@ -272,7 +273,7 @@ void deallocate(T* p, std::size_t n)
 }
 ```
 
-# 写入序列化类型的字节大小函数WriteCompactSize实现
+### 写入序列化类型的字节大小函数WriteCompactSize实现
 
 - < 253字节
     + 以单字节存入
@@ -321,7 +322,7 @@ inline void WriteCompactSize(CSizeComputer &s, uint64_t nSize)
 反序列化
 --------
 
-#操作符>>方法
+### 操作符>>方法
 实际上调用的是Unserialize方法
 
 ```c++
@@ -393,7 +394,7 @@ inline void Unserialize(Stream& is, std::vector<T, A>& v)
 }
 ```
 
-## ReadCompactSize的实现
+### ReadCompactSize的实现
 和WriteCompactSize对应
     - 先获取一个字节数据chSize
     - 根据chSize的大小
@@ -443,7 +444,7 @@ uint64_t ReadCompactSize(Stream& is)
 }
 ```
 
-##read方法的实现
+### read方法的实现
 通过成员变量nReadPos记录读取到的字节位置
 
 - 先计算出本次读取的位置末尾

@@ -1,0 +1,2614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"BOOST_",
+				"BOOST_AUTO_TEST_CASE"
+			],
+			[
+				"max",
+				"maxCount"
+			],
+			[
+				"de",
+				"defenderPKTitleLevel"
+			],
+			[
+				"itemId",
+				"itemId3"
+			],
+			[
+				"item",
+				"itemId2"
+			],
+			[
+				"equi",
+				"equipCountWithMaxStrength"
+			],
+			[
+				"folds",
+				"foldsType"
+			],
+			[
+				"out",
+				"outPokersType"
+			],
+			[
+				"isMu",
+				"isMultiPair"
+			],
+			[
+				"Sing",
+				"SinglePair"
+			],
+			[
+				"isSing",
+				"isSinglePair"
+			],
+			[
+				"thre",
+				"threeList"
+			],
+			[
+				"next",
+				"nextPokerNum"
+			],
+			[
+				"cp",
+				"countMap"
+			],
+			[
+				"getG",
+				"getGreaterPlane"
+			],
+			[
+				"min",
+				"minPokerNum"
+			],
+			[
+				"greate",
+				"greaterPokerNum"
+			],
+			[
+				"nex",
+				"nextPokerNum"
+			],
+			[
+				"ne",
+				"nextPokerNum"
+			],
+			[
+				"pai",
+				"paiList"
+			],
+			[
+				"init",
+				"initHolds"
+			],
+			[
+				"show",
+				"showChupai"
+			],
+			[
+				"btnDis",
+				"btnDispress"
+			],
+			[
+				"_time",
+				"_timeNodes"
+			],
+			[
+				"other",
+				"otherHasOptions"
+			],
+			[
+				"checkOptions",
+				"checkOptionsByChuPai"
+			],
+			[
+				"user",
+				"userDict"
+			],
+			[
+				"huan",
+				"huanpaimethod"
+			],
+			[
+				"huanp",
+				"huanpai"
+			],
+			[
+				"del",
+				"deletePai"
+			],
+			[
+				"Fa",
+				"FashionElementAttack"
+			],
+			[
+				"is",
+				"_isAgree"
+			],
+			[
+				"room",
+				"roomMgr"
+			],
+			[
+				"call",
+				"CallBackWrapper"
+			],
+			[
+				"player",
+				"playerInfo"
+			],
+			[
+				"set",
+				"setPlayerInfo"
+			],
+			[
+				"pla",
+				"playerNum"
+			],
+			[
+				"crea",
+				"createRoomFromDB"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"has",
+				"hasOptions"
+			],
+			[
+				"dele",
+				"deletePai"
+			],
+			[
+				"play",
+				"playerIndex"
+			],
+			[
+				"gang",
+				"gangPai"
+			],
+			[
+				"pen",
+				"pengs"
+			],
+			[
+				"chu",
+				"currentChuPai"
+			],
+			[
+				"chuP",
+				"chuPaiIndex"
+			],
+			[
+				"cou",
+				"countMap"
+			],
+			[
+				"pa",
+				"pattern"
+			],
+			[
+				"che",
+				"check7Pairs"
+			],
+			[
+				"coun",
+				"count"
+			],
+			[
+				"qu",
+				"queType"
+			],
+			[
+				"pl",
+				"playerNum"
+			],
+			[
+				"tI",
+				"tIndex4"
+			],
+			[
+				"itemI",
+				"itemId1"
+			],
+			[
+				"tP",
+				"tPage2"
+			],
+			[
+				"tInde",
+				"tIndex1"
+			],
+			[
+				"tPa",
+				"tPage1"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"str",
+				"strengthStoneItemId"
+			],
+			[
+				"tItem",
+				"tItemQuantity"
+			],
+			[
+				"stren",
+				"strengthStoneItemId"
+			],
+			[
+				"Log",
+				"LOG_TO_FILE_1"
+			],
+			[
+				"mCri",
+				"mCritical"
+			],
+			[
+				"mLi",
+				"mMaxLife"
+			],
+			[
+				"cri",
+				"mCriticalDefense"
+			],
+			[
+				"mQua",
+				"mQuadtree"
+			],
+			[
+				"mBo",
+				"mBoxMin"
+			],
+			[
+				"mTr",
+				"mTrisNum"
+			],
+			[
+				"GE",
+				"GetYCoordWithTris"
+			],
+			[
+				"mC",
+				"mChildNodeIndex"
+			],
+			[
+				"lo",
+				"locationY"
+			],
+			[
+				"locatio",
+				"locationX"
+			],
+			[
+				"mM",
+				"mMONSTER_SUMMON"
+			],
+			[
+				"mB",
+				"mBoxMin"
+			],
+			[
+				"mQ",
+				"mQuadtree"
+			],
+			[
+				"mWo",
+				"mWorldTrisNum"
+			],
+			[
+				"Su",
+				"SummonMonsterWithoutTimeLimit"
+			],
+			[
+				"Summ",
+				"SummonMonsterWithoutTimeLimit"
+			],
+			[
+				"tIte",
+				"tItemType"
+			],
+			[
+				"tSkill",
+				"tSkillNumber"
+			],
+			[
+				"drin",
+				"drinkProp"
+			],
+			[
+				"tA",
+				"tAvatarName"
+			],
+			[
+				"mCr",
+				"mCritical"
+			],
+			[
+				"LOG_",
+				"LOG_TO_FILE_2"
+			],
+			[
+				"LOG",
+				"LOG_TO_FILE_1"
+			],
+			[
+				"mMax",
+				"mMaxLife"
+			],
+			[
+				"AVA",
+				"W_AVATAR_ACTION_SEND"
+			],
+			[
+				"strengthEqui",
+				"strengthEquipBagIndex"
+			],
+			[
+				"stre",
+				"strengthStoneBagIndex"
+			],
+			[
+				"aSk",
+				"aSkillGradeNum2"
+			],
+			[
+				"aS",
+				"aSkillGradeNum1"
+			],
+			[
+				"SetA",
+				"setAttackPower"
+			],
+			[
+				"mAtt",
+				"mAttackPower"
+			],
+			[
+				"setC",
+				"setCriticalDefense"
+			],
+			[
+				"setE",
+				"setElementDefensePower"
+			],
+			[
+				"setA",
+				"setElementAttackPower"
+			],
+			[
+				"seta",
+				"setAttackSuccess"
+			],
+			[
+				"setMax",
+				"setMaxMana"
+			],
+			[
+				"an",
+				"aAnimalNumber"
+			],
+			[
+				"log",
+				"log_file_path_str_obj"
+			],
+			[
+				"skill",
+				"skillId"
+			],
+			[
+				"load",
+				"load_skill_limit_config"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"rec",
+				"recover"
+			],
+			[
+				"reco",
+				"recoverValue"
+			],
+			[
+				"t_cri",
+				"t_critical_defense"
+			],
+			[
+				"avatar",
+				"mAvatarName"
+			],
+			[
+				"atta",
+				"attackable"
+			],
+			[
+				"tAttack",
+				"tAttackInfo"
+			],
+			[
+				"return",
+				"returnDamageToDeath"
+			],
+			[
+				"tAtt",
+				"tAttackInfo"
+			],
+			[
+				"slo",
+				"slotEndIndex"
+			],
+			[
+				"tGain",
+				"tGainPatExperience"
+			],
+			[
+				"getMax",
+				"getMaxPatExp"
+			],
+			[
+				"upgra",
+				"checkToUpgradeLevel2"
+			],
+			[
+				"order_tar",
+				"order_target_value"
+			],
+			[
+				"r",
+				"requestUrl"
+			],
+			[
+				"mRecv_a",
+				"mRecv_AvatarInfo"
+			],
+			[
+				"sav",
+				"MakeQueryForSave"
+			],
+			[
+				"tChe",
+				"tCheckChangeActionState"
+			],
+			[
+				"guil",
+				"guildWork3"
+			],
+			[
+				"gui",
+				"guildWork2"
+			],
+			[
+				"D",
+				"DB_PROCESS_02"
+			],
+			[
+				"MAX_",
+				"MAX_AVATAR_NAME_LENGTH"
+			],
+			[
+				"MAX",
+				"MAX_AVATAR_NAME_LENGTH"
+			],
+			[
+				"to_",
+				"to_str_utf8"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"nee",
+				"needGoungxianCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/test/test_bitcoin.cpp",
+			"settings":
+			{
+				"buffer_size": 5006,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/test/uint256_tests.cpp",
+			"settings":
+			{
+				"buffer_size": 10356,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/hash.h",
+			"settings":
+			{
+				"buffer_size": 7411,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/README.md",
+			"settings":
+			{
+				"buffer_size": 5309,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/test/README.md",
+			"settings":
+			{
+				"buffer_size": 2192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/streams.h",
+			"settings":
+			{
+				"buffer_size": 21081,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/chain.h",
+			"settings":
+			{
+				"buffer_size": 15575,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/chain.cpp",
+			"settings":
+			{
+				"buffer_size": 4966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 63 files for \"CChain\"\n\nI:\\work\\blockchain\\bitcoin\\src\\qt\\test\\rpcnestedtests.cpp:\n   36      // do some test setup\n   37      // could be moved to a more generic place when we add more tests on QT level\n   38:     const CChainParams& chainparams = Params();\n   39      RegisterAllCoreRPCCommands(tableRPC);\n   40      tableRPC.appendCommand(\"rpcNestedTest\", &vRPCCommands[0]);\n\nI:\\work\\blockchain\\bitcoin\\src\\test\\miner_tests.cpp:\n   29  static CFeeRate blockMinFeeRate = CFeeRate(DEFAULT_BLOCK_MIN_TX_FEE);\n   30  \n   31: static BlockAssembler AssemblerForTest(const CChainParams& params) {\n   32      BlockAssembler::Options options;\n   33  \n   ..\n   90  // Implemented as an additional function, rather than a separate test case,\n   91  // to allow reusing the blockchain created in CreateNewBlock_validity.\n   92: void TestPackageSelection(const CChainParams& chainparams, CScript scriptPubKey, std::vector<CTransactionRef>& txFirst)\n   93  {\n   94      // Test the ancestor feerate transaction selection.\n   ..\n  197      // Note that by default, these tests run with size accounting enabled.\n  198      const auto chainParams = CreateChainParams(CBaseChainParams::MAIN);\n  199:     const CChainParams& chainparams = *chainParams;\n  200      CScript scriptPubKey = CScript() << ParseHex(\"04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f\") << OP_CHECKSIG;\n  201      std::unique_ptr<CBlockTemplate> pblocktemplate;\n\nI:\\work\\blockchain\\bitcoin\\src\\test\\skiplist_tests.cpp:\n   72      }\n   73  \n   74:     // Build a CChain for the main branch.\n   75:     CChain chain;\n   76      chain.SetTip(&vBlocksMain.back());\n   77  \n   ..\n  128      }\n  129  \n  130:     // Build a CChain for the main branch.\n  131:     CChain chain;\n  132      chain.SetTip(&vBlocksMain.back());\n  133  \n  ...\n  156      }\n  157  \n  158:     CChain chain;\n  159      chain.SetTip(&blocks.back());\n  160  \n\n9 matches across 3 files\n\n\nSearching 243 files for \"CChain\"\n\nI:\\work\\blockchain\\bitcoin\\src\\base58.cpp:\n  230  bool CBitcoinAddress::Set(const CKeyID& id)\n  231  {\n  232:     SetData(Params().Base58Prefix(CChainParams::PUBKEY_ADDRESS), &id, 20);\n  233      return true;\n  234  }\n  ...\n  236  bool CBitcoinAddress::Set(const CScriptID& id)\n  237  {\n  238:     SetData(Params().Base58Prefix(CChainParams::SCRIPT_ADDRESS), &id, 20);\n  239      return true;\n  240  }\n  ...\n  250  }\n  251  \n  252: bool CBitcoinAddress::IsValid(const CChainParams& params) const\n  253  {\n  254      bool fCorrectSize = vchData.size() == 20;\n  255:     bool fKnownVersion = vchVersion == params.Base58Prefix(CChainParams::PUBKEY_ADDRESS) ||\n  256:                          vchVersion == params.Base58Prefix(CChainParams::SCRIPT_ADDRESS);\n  257      return fCorrectSize && fKnownVersion;\n  258  }\n  ...\n  264      uint160 id;\n  265      memcpy(&id, &vchData[0], 20);\n  266:     if (vchVersion == Params().Base58Prefix(CChainParams::PUBKEY_ADDRESS))\n  267          return CKeyID(id);\n  268:     else if (vchVersion == Params().Base58Prefix(CChainParams::SCRIPT_ADDRESS))\n  269          return CScriptID(id);\n  270      else\n  ...\n  274  bool CBitcoinAddress::GetKeyID(CKeyID& keyID) const\n  275  {\n  276:     if (!IsValid() || vchVersion != Params().Base58Prefix(CChainParams::PUBKEY_ADDRESS))\n  277          return false;\n  278      uint160 id;\n  ...\n  284  bool CBitcoinAddress::IsScript() const\n  285  {\n  286:     return IsValid() && vchVersion == Params().Base58Prefix(CChainParams::SCRIPT_ADDRESS);\n  287  }\n  288  \n  ...\n  290  {\n  291      assert(vchSecret.IsValid());\n  292:     SetData(Params().Base58Prefix(CChainParams::SECRET_KEY), vchSecret.begin(), vchSecret.size());\n  293      if (vchSecret.IsCompressed())\n  294          vchData.push_back(1);\n  ...\n  306  {\n  307      bool fExpectedFormat = vchData.size() == 32 || (vchData.size() == 33 && vchData[32] == 1);\n  308:     bool fCorrectVersion = vchVersion == Params().Base58Prefix(CChainParams::SECRET_KEY);\n  309      return fExpectedFormat && fCorrectVersion;\n  310  }\n\nI:\\work\\blockchain\\bitcoin\\src\\chain.cpp:\n    7  \n    8  /**\n    9:  * CChain implementation\n   10   */\n   11: void CChain::SetTip(CBlockIndex *pindex) {\n   12      if (pindex == NULL) {\n   13          vChain.clear();\n   ..\n   21  }\n   22  \n   23: CBlockLocator CChain::GetLocator(const CBlockIndex *pindex) const {\n   24      int nStep = 1;\n   25      std::vector<uint256> vHave;\n   ..\n   36          int nHeight = std::max(pindex->nHeight - nStep, 0);\n   37          if (Contains(pindex)) {\n   38:             // Use O(1) CChain index if possible.\n   39              pindex = (*this)[nHeight];\n   40          } else {\n   ..\n   49  }\n   50  \n   51: const CBlockIndex *CChain::FindFork(const CBlockIndex *pindex) const {\n   52      if (pindex == NULL) {\n   53          return NULL;\n   ..\n   60  }\n   61  \n   62: CBlockIndex* CChain::FindEarliestAtLeast(int64_t nTime) const\n   63  {\n   64      std::vector<CBlockIndex*>::const_iterator lower = std::lower_bound(vChain.begin(), vChain.end(), nTime,\n\nI:\\work\\blockchain\\bitcoin\\src\\chainparams.cpp:\n   54  }\n   55  \n   56: void CChainParams::UpdateVersionBitsParameters(Consensus::DeploymentPos d, int64_t nStartTime, int64_t nTimeout)\n   57  {\n   58      consensus.vDeployments[d].nStartTime = nStartTime;\n   ..\n   71   */\n   72  \n   73: class CMainParams : public CChainParams {\n   74  public:\n   75      CMainParams() {\n   ..\n  175   * Testnet (v3)\n  176   */\n  177: class CTestNetParams : public CChainParams {\n  178  public:\n  179      CTestNetParams() {\n  ...\n  263   * Regression test\n  264   */\n  265: class CRegTestParams : public CChainParams {\n  266  public:\n  267      CRegTestParams() {\n  ...\n  334  };\n  335  \n  336: static std::unique_ptr<CChainParams> globalChainParams;\n  337  \n  338: const CChainParams &Params() {\n  339      assert(globalChainParams);\n  340      return *globalChainParams;\n  341  }\n  342  \n  343: std::unique_ptr<CChainParams> CreateChainParams(const std::string& chain)\n  344  {\n  345      if (chain == CBaseChainParams::MAIN)\n  346:         return std::unique_ptr<CChainParams>(new CMainParams());\n  347      else if (chain == CBaseChainParams::TESTNET)\n  348:         return std::unique_ptr<CChainParams>(new CTestNetParams());\n  349      else if (chain == CBaseChainParams::REGTEST)\n  350:         return std::unique_ptr<CChainParams>(new CRegTestParams());\n  351      throw std::runtime_error(strprintf(\"%s: Unknown chain %s.\", __func__, chain));\n  352  }\n\nI:\\work\\blockchain\\bitcoin\\src\\init.cpp:\n  606  void ThreadImport(std::vector<fs::path> vImportFiles)\n  607  {\n  608:     const CChainParams& chainparams = Params();\n  609      RenameThread(\"bitcoin-loadblk\");\n  610  \n  ...\n  870  bool AppInitParameterInteraction()\n  871  {\n  872:     const CChainParams& chainparams = Params();\n  873      // ********************************************************* Step 2: parameter interactions\n  874  \n  ...\n 1160  bool AppInitMain(boost::thread_group& threadGroup, CScheduler& scheduler)\n 1161  {\n 1162:     const CChainParams& chainparams = Params();\n 1163      // ********************************************************* Step 4a: application initialization\n 1164      // After daemonization get the data directory lock again and hold on to it until exit\n\nI:\\work\\blockchain\\bitcoin\\src\\miner.cpp:\n   68  }\n   69  \n   70: BlockAssembler::BlockAssembler(const CChainParams& params, const Options& options) : chainparams(params)\n   71  {\n   72      blockMinFeeRate = options.blockMinFeeRate;\n   ..\n   79  }\n   80  \n   81: static BlockAssembler::Options DefaultOptions(const CChainParams& params)\n   82  {\n   83      // Block resource limits\n   ..\n  110  }\n  111  \n  112: BlockAssembler::BlockAssembler(const CChainParams& params) : BlockAssembler(params, DefaultOptions(params)) {}\n  113  \n  114  void BlockAssembler::resetBlock()\n\nI:\\work\\blockchain\\bitcoin\\src\\net_processing.cpp:\n 1191  }\n 1192  \n 1193: bool static ProcessMessage(CNode* pfrom, const std::string& strCommand, CDataStream& vRecv, int64_t nTimeReceived, const CChainParams& chainparams, CConnman& connman, const std::atomic<bool>& interruptMsgProc)\n 1194  {\n 1195      LogPrint(BCLog::NET, \"received: %s (%u bytes) peer=%d\\n\", SanitizeString(strCommand), vRecv.size(), pfrom->GetId());\n ....\n 2658  bool ProcessMessages(CNode* pfrom, CConnman& connman, const std::atomic<bool>& interruptMsgProc)\n 2659  {\n 2660:     const CChainParams& chainparams = Params();\n 2661      //\n 2662      // Message format\n\nI:\\work\\blockchain\\bitcoin\\src\\qt\\guiutil.cpp:\n  107  \n  108  // Generate a dummy address with invalid CRC, starting with the network prefix.\n  109: static std::string DummyAddress(const CChainParams &params)\n  110  {\n  111:     std::vector<unsigned char> sourcedata = params.Base58Prefix(CChainParams::PUBKEY_ADDRESS);\n  112      sourcedata.insert(sourcedata.end(), dummydata, dummydata + sizeof(dummydata));\n  113      for(int i=0; i<256; ++i) { // Try every trailing byte\n\nI:\\work\\blockchain\\bitcoin\\src\\qt\\test\\rpcnestedtests.cpp:\n   36      // do some test setup\n   37      // could be moved to a more generic place when we add more tests on QT level\n   38:     const CChainParams& chainparams = Params();\n   39      RegisterAllCoreRPCCommands(tableRPC);\n   40      tableRPC.appendCommand(\"rpcNestedTest\", &vRPCCommands[0]);\n\nI:\\work\\blockchain\\bitcoin\\src\\test\\miner_tests.cpp:\n   29  static CFeeRate blockMinFeeRate = CFeeRate(DEFAULT_BLOCK_MIN_TX_FEE);\n   30  \n   31: static BlockAssembler AssemblerForTest(const CChainParams& params) {\n   32      BlockAssembler::Options options;\n   33  \n   ..\n   90  // Implemented as an additional function, rather than a separate test case,\n   91  // to allow reusing the blockchain created in CreateNewBlock_validity.\n   92: void TestPackageSelection(const CChainParams& chainparams, CScript scriptPubKey, std::vector<CTransactionRef>& txFirst)\n   93  {\n   94      // Test the ancestor feerate transaction selection.\n   ..\n  197      // Note that by default, these tests run with size accounting enabled.\n  198      const auto chainParams = CreateChainParams(CBaseChainParams::MAIN);\n  199:     const CChainParams& chainparams = *chainParams;\n  200      CScript scriptPubKey = CScript() << ParseHex(\"04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f\") << OP_CHECKSIG;\n  201      std::unique_ptr<CBlockTemplate> pblocktemplate;\n\nI:\\work\\blockchain\\bitcoin\\src\\test\\skiplist_tests.cpp:\n   72      }\n   73  \n   74:     // Build a CChain for the main branch.\n   75:     CChain chain;\n   76      chain.SetTip(&vBlocksMain.back());\n   77  \n   ..\n  128      }\n  129  \n  130:     // Build a CChain for the main branch.\n  131:     CChain chain;\n  132      chain.SetTip(&vBlocksMain.back());\n  133  \n  ...\n  156      }\n  157  \n  158:     CChain chain;\n  159      chain.SetTip(&blocks.back());\n  160  \n\nI:\\work\\blockchain\\bitcoin\\src\\test\\test_bitcoin.cpp:\n   53  TestingSetup::TestingSetup(const std::string& chainName) : BasicTestingSetup(chainName)\n   54  {\n   55:     const CChainParams& chainparams = Params();\n   56          // Ideally we'd move all the RPC tests to the functional testing framework\n   57          // instead of unit tests, but for now we need these here.\n   ..\n  115  TestChain100Setup::CreateAndProcessBlock(const std::vector<CMutableTransaction>& txns, const CScript& scriptPubKey)\n  116  {\n  117:     const CChainParams& chainparams = Params();\n  118      std::unique_ptr<CBlockTemplate> pblocktemplate = BlockAssembler(chainparams).CreateNewBlock(scriptPubKey);\n  119      CBlock& block = pblocktemplate->block;\n\nI:\\work\\blockchain\\bitcoin\\src\\validation.cpp:\n   58  \n   59  BlockMap mapBlockIndex;\n   60: CChain chainActive;\n   61  CBlockIndex *pindexBestHeader = NULL;\n   62  CWaitableCriticalSection csBestBlock;\n   ..\n  157  } // anon namespace\n  158  \n  159: CBlockIndex* FindForkInGlobalIndex(const CChain& chain, const CBlockLocator& locator)\n  160  {\n  161      // Find the first block the caller has in the main chain\n  ...\n  187  \n  188  // See definition for documentation\n  189: static bool FlushStateToDisk(const CChainParams& chainParams, CValidationState &state, FlushStateMode mode, int nManualPruneHeight=0);\n  190  static void FindFilesToPruneManual(std::set<int>& setFilesToPrune, int nManualPruneHeight);\n  191  static void FindFilesToPrune(std::set<int>& setFilesToPrune, uint64_t nPruneAfterHeight);\n  ...\n  396  }\n  397  \n  398: static bool AcceptToMemoryPoolWorker(const CChainParams& chainparams, CTxMemPool& pool, CValidationState& state, const CTransactionRef& ptx, bool fLimitFree,\n  399                                bool* pfMissingInputs, int64_t nAcceptTime, std::list<CTransactionRef>* plTxnReplaced,\n  400                                bool fOverrideMempoolLimit, const CAmount& nAbsurdFee, std::vector<COutPoint>& coins_to_uncache)\n  ...\n  816  \n  817  /** (try to) add transaction to memory pool with a specified acceptance time **/\n  818: static bool AcceptToMemoryPoolWithTime(const CChainParams& chainparams, CTxMemPool& pool, CValidationState &state, const CTransactionRef &tx, bool fLimitFree,\n  819                          bool* pfMissingInputs, int64_t nAcceptTime, std::list<CTransactionRef>* plTxnReplaced,\n  820                          bool fOverrideMempoolLimit, const CAmount nAbsurdFee)\n  ...\n  836                          bool fOverrideMempoolLimit, const CAmount nAbsurdFee)\n  837  {\n  838:     const CChainParams& chainparams = Params();\n  839      return AcceptToMemoryPoolWithTime(chainparams, pool, state, tx, fLimitFree, pfMissingInputs, GetTime(), plTxnReplaced, fOverrideMempoolLimit, nAbsurdFee);\n  840  }\n  ...\n  976  bool IsInitialBlockDownload()\n  977  {\n  978:     const CChainParams& chainParams = Params();\n  979  \n  980      // Once this function has returned false, it must remain false.\n  ...\n 1491   *  can fail if those validity checks fail (among other reasons). */\n 1492  static bool ConnectBlock(const CBlock& block, CValidationState& state, CBlockIndex* pindex,\n 1493:                   CCoinsViewCache& view, const CChainParams& chainparams, bool fJustCheck = false)\n 1494  {\n 1495      AssertLockHeld(cs_main);\n ....\n 1744   * or always and in all cases if we're in prune mode and are deleting files.\n 1745   */\n 1746: bool static FlushStateToDisk(const CChainParams& chainparams, CValidationState &state, FlushStateMode mode, int nManualPruneHeight) {\n 1747      int64_t nMempoolUsage = mempool.DynamicMemoryUsage();\n 1748      LOCK2(cs_main, cs_LastBlockFile);\n ....\n 1849  void FlushStateToDisk() {\n 1850      CValidationState state;\n 1851:     const CChainParams& chainparams = Params();\n 1852      FlushStateToDisk(chainparams, state, FLUSH_STATE_ALWAYS);\n 1853  }\n ....\n 1856      CValidationState state;\n 1857      fCheckForPruning = true;\n 1858:     const CChainParams& chainparams = Params();\n 1859      FlushStateToDisk(chainparams, state, FLUSH_STATE_NONE);\n 1860  }\n ....\n 1871  \n 1872  /** Update chainActive and related internal data structures. */\n 1873: void static UpdateTip(CBlockIndex *pindexNew, const CChainParams& chainParams) {\n 1874      chainActive.SetTip(pindexNew);\n 1875  \n ....\n 1934    * in any case).\n 1935    */\n 1936: bool static DisconnectTip(CValidationState& state, const CChainParams& chainparams, DisconnectedBlockTransactions *disconnectpool)\n 1937  {\n 1938      CBlockIndex *pindexDelete = chainActive.Tip();\n ....\n 2055   * The block is added to connectTrace if connection succeeds.\n 2056   */\n 2057: bool static ConnectTip(CValidationState& state, const CChainParams& chainparams, CBlockIndex* pindexNew, const std::shared_ptr<const CBlock>& pblock, ConnectTrace& connectTrace, DisconnectedBlockTransactions &disconnectpool)\n 2058  {\n 2059      assert(pindexNew->pprev == chainActive.Tip());\n ....\n 2183   * pblock is either NULL or a pointer to a CBlock corresponding to pindexMostWork.\n 2184   */\n 2185: static bool ActivateBestChainStep(CValidationState& state, const CChainParams& chainparams, CBlockIndex* pindexMostWork, const std::shared_ptr<const CBlock>& pblock, bool& fInvalidFound, ConnectTrace& connectTrace)\n 2186  {\n 2187      AssertLockHeld(cs_main);\n ....\n 2290   * that is already loaded (to avoid loading it again from disk).\n 2291   */\n 2292: bool ActivateBestChain(CValidationState &state, const CChainParams& chainparams, std::shared_ptr<const CBlock> pblock) {\n 2293      // Note that while we're often called here from ProcessNewBlock, this is\n 2294      // far from a guarantee. Things in the P2P/RPC will often end up calling\n ....\n 2362  \n 2363  \n 2364: bool PreciousBlock(CValidationState& state, const CChainParams& params, CBlockIndex *pindex)\n 2365  {\n 2366      {\n ....\n 2391  }\n 2392  \n 2393: bool InvalidateBlock(CValidationState& state, const CChainParams& chainparams, CBlockIndex *pindex)\n 2394  {\n 2395      AssertLockHeld(cs_main);\n ....\n 2712  }\n 2713  \n 2714: static bool CheckIndexAgainstCheckpoint(const CBlockIndex* pindexPrev, CValidationState& state, const CChainParams& chainparams, const uint256& hash)\n 2715  {\n 2716      if (*pindexPrev->phashBlock == chainparams.GetConsensus().hashGenesisBlock)\n ....\n 2901  }\n 2902  \n 2903: static bool AcceptBlockHeader(const CBlockHeader& block, CValidationState& state, const CChainParams& chainparams, CBlockIndex** ppindex)\n 2904  {\n 2905      AssertLockHeld(cs_main);\n ....\n 2951  \n 2952  // Exposed wrapper for AcceptBlockHeader\n 2953: bool ProcessNewBlockHeaders(const std::vector<CBlockHeader>& headers, CValidationState& state, const CChainParams& chainparams, const CBlockIndex** ppindex)\n 2954  {\n 2955      {\n ....\n 2970  \n 2971  /** Store block on disk. If dbp is non-NULL, the file is known to already reside on disk */\n 2972: static bool AcceptBlock(const std::shared_ptr<const CBlock>& pblock, CValidationState& state, const CChainParams& chainparams, CBlockIndex** ppindex, bool fRequested, const CDiskBlockPos* dbp, bool* fNewBlock)\n 2973  {\n 2974      const CBlock& block = *pblock;\n ....\n 3049  }\n 3050  \n 3051: bool ProcessNewBlock(const CChainParams& chainparams, const std::shared_ptr<const CBlock> pblock, bool fForceProcessing, bool *fNewBlock)\n 3052  {\n 3053      {\n ....\n 3081  }\n 3082  \n 3083: bool TestBlockValidity(CValidationState& state, const CChainParams& chainparams, const CBlock& block, CBlockIndex* pindexPrev, bool fCheckPOW, bool fCheckMerkleRoot)\n 3084  {\n 3085      AssertLockHeld(cs_main);\n ....\n 3190  {\n 3191      CValidationState state;\n 3192:     const CChainParams& chainparams = Params();\n 3193      FlushStateToDisk(chainparams, state, FLUSH_STATE_NONE, nManualPruneHeight);\n 3194  }\n ....\n 3324  }\n 3325  \n 3326: bool static LoadBlockIndexDB(const CChainParams& chainparams)\n 3327  {\n 3328      if (!pblocktree->LoadBlockIndexGuts(chainparams.GetConsensus(), InsertBlockIndex))\n ....\n 3444  }\n 3445  \n 3446: bool CVerifyDB::VerifyDB(const CChainParams& chainparams, CCoinsView *coinsview, int nCheckLevel, int nCheckDepth)\n 3447  {\n 3448      LOCK(cs_main);\n ....\n 3539  }\n 3540  \n 3541: bool RewindBlockIndex(const CChainParams& params)\n 3542  {\n 3543      LOCK(cs_main);\n ....\n 3652  }\n 3653  \n 3654: bool LoadBlockIndex(const CChainParams& chainparams)\n 3655  {\n 3656      // Load block index from databases\n ....\n 3660  }\n 3661  \n 3662: bool InitBlockIndex(const CChainParams& chainparams)\n 3663  {\n 3664      LOCK(cs_main);\n ....\n 3698  }\n 3699  \n 3700: bool LoadExternalBlockFile(const CChainParams& chainparams, FILE* fileIn, CDiskBlockPos *dbp)\n 3701  {\n 3702      // Map of disk positions for blocks with unknown parent (only used for reindex)\n ....\n 4031  bool LoadMempool(void)\n 4032  {\n 4033:     const CChainParams& chainparams = Params();\n 4034      int64_t nExpiryTimeout = GetArg(\"-mempoolexpiry\", DEFAULT_MEMPOOL_EXPIRY) * 60 * 60;\n 4035      FILE* filestr = fsbridge::fopen(GetDataDir() / \"mempool.dat\", \"rb\");\n\nI:\\work\\blockchain\\bitcoin\\src\\wallet\\wallet.cpp:\n 1512  {\n 1513      int64_t nNow = GetTime();\n 1514:     const CChainParams& chainParams = Params();\n 1515  \n 1516      CBlockIndex* pindex = pindexStart;\n\n81 matches across 13 files\n\n\nSearching 243 files for \"FindEarliestAtLeast\"\n\nI:\\work\\blockchain\\bitcoin\\src\\chain.cpp:\n   60  }\n   61  \n   62: CBlockIndex* CChain::FindEarliestAtLeast(int64_t nTime) const\n   63  {\n   64      std::vector<CBlockIndex*>::const_iterator lower = std::lower_bound(vChain.begin(), vChain.end(), nTime,\n\nI:\\work\\blockchain\\bitcoin\\src\\rpc\\blockchain.cpp:\n  874      if (heightParam > 1000000000) {\n  875          // Add a 2 hour buffer to include blocks which might have had old timestamps\n  876:         CBlockIndex* pindex = chainActive.FindEarliestAtLeast(heightParam - TIMESTAMP_WINDOW);\n  877          if (!pindex) {\n  878              throw JSONRPCError(RPC_INVALID_PARAMETER, \"Could not find block with at least the specified timestamp.\");\n\nI:\\work\\blockchain\\bitcoin\\src\\test\\skiplist_tests.cpp:\n  100  }\n  101  \n  102: BOOST_AUTO_TEST_CASE(findearliestatleast_test)\n  103  {\n  104      std::vector<uint256> vHashMain(100000);\n  ...\n  132      chain.SetTip(&vBlocksMain.back());\n  133  \n  134:     // Verify that FindEarliestAtLeast is correct.\n  135      for (unsigned int i=0; i<10000; ++i) {\n  136          // Pick a random element in vBlocksMain.\n  137          int r = InsecureRandRange(vBlocksMain.size());\n  138          int64_t test_time = vBlocksMain[r].nTime;\n  139:         CBlockIndex *ret = chain.FindEarliestAtLeast(test_time);\n  140          BOOST_CHECK(ret->nTimeMax >= test_time);\n  141          BOOST_CHECK((ret->pprev==NULL) || ret->pprev->nTimeMax < test_time);\n  ...\n  144  }\n  145  \n  146: BOOST_AUTO_TEST_CASE(findearliestatleast_edge_test)\n  147  {\n  148      std::list<CBlockIndex> blocks;\n  ...\n  159      chain.SetTip(&blocks.back());\n  160  \n  161:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(50)->nHeight, 0);\n  162:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(100)->nHeight, 0);\n  163:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(150)->nHeight, 3);\n  164:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(200)->nHeight, 3);\n  165:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(250)->nHeight, 6);\n  166:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(300)->nHeight, 6);\n  167:     BOOST_CHECK(!chain.FindEarliestAtLeast(350));\n  168  \n  169:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(0)->nHeight, 0);\n  170:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(-1)->nHeight, 0);\n  171  \n  172:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(std::numeric_limits<int64_t>::min())->nHeight, 0);\n  173:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(std::numeric_limits<unsigned int>::min())->nHeight, 0);\n  174:     BOOST_CHECK_EQUAL(chain.FindEarliestAtLeast(-int64_t(std::numeric_limits<unsigned int>::max()) - 1)->nHeight, 0);\n  175:     BOOST_CHECK(!chain.FindEarliestAtLeast(std::numeric_limits<int64_t>::max()));\n  176:     BOOST_CHECK(!chain.FindEarliestAtLeast(std::numeric_limits<unsigned int>::max()));\n  177:     BOOST_CHECK(!chain.FindEarliestAtLeast(int64_t(std::numeric_limits<unsigned int>::max()) + 1));\n  178  }\n  179  \n\nI:\\work\\blockchain\\bitcoin\\src\\wallet\\wallet.cpp:\n 1488      // highest blockchain timestamp, in which case there is nothing that needs\n 1489      // to be scanned.\n 1490:     CBlockIndex* const startBlock = chainActive.FindEarliestAtLeast(startTime - TIMESTAMP_WINDOW);\n 1491      LogPrintf(\"%s: Rescanning last %i blocks\\n\", __func__, startBlock ? chainActive.Height() - startBlock->nHeight + 1 : 0);\n 1492  \n\n22 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 23639,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/test/skiplist_tests.cpp",
+			"settings":
+			{
+				"buffer_size": 7670,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/arith_uint256.cpp",
+			"settings":
+			{
+				"buffer_size": 7460,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/crypto/common.h",
+			"settings":
+			{
+				"buffer_size": 2300,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/arith_uint256.h",
+			"settings":
+			{
+				"buffer_size": 8916,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/uint256.h",
+			"settings":
+			{
+				"buffer_size": 4356,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/serialize.h",
+			"settings":
+			{
+				"buffer_size": 27688,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 3600,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CONTRIBUTING.md",
+			"settings":
+			{
+				"buffer_size": 13171,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/primitives/transaction.h",
+			"settings":
+			{
+				"buffer_size": 12219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/support/allocators/zeroafterfree.h",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/support/cleanse.cpp",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/leveldb/port/win/stdint.h",
+			"settings":
+			{
+				"buffer_size": 855,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/prevector.h",
+			"settings":
+			{
+				"buffer_size": 17970,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/I/work/blockchain/bitcoin",
+		"/I/work/blockchain/bitcoin/src",
+		"/I/work/blockchain/bitcoin/src/test"
+	],
+	"file_history":
+	[
+		"/I/work/blockchain/bitcoin/doc/src_reading/initialize.md",
+		"/I/work/blockchain/bitcoin/doc/src_reading/code_structure.md",
+		"/I/work/blockchain/bitcoin/doc/src_reading/data_storage.md",
+		"/I/work/blockchain/bitcoin/doc/src_reading/architecture.md",
+		"/I/work/blockchain/bitcoin/doc/src_reading/p2p.md",
+		"/I/work/blockchain/bitcoin/doc/src_reading/blockchain.md",
+		"/I/work/blockchain/bitcoin/src/chain.h",
+		"/I/work/blockchain/bitcoin/doc/build-unix.md",
+		"/I/work/blockchain/bitcoin/src/noui.cpp",
+		"/I/work/blockchain/bitcoin/src/chainparams.cpp",
+		"/I/work/blockchain/bitcoin/src/script/sigcache.cpp",
+		"/I/work/blockchain/bitcoin/src/util.cpp",
+		"/I/work/blockchain/bitcoin/src/key.cpp",
+		"/I/work/blockchain/bitcoin/src/random.cpp",
+		"/I/work/blockchain/bitcoin/src/leveldb/port/win/stdint.h",
+		"/I/work/blockchain/bitcoin/src/arith_uint256.h",
+		"/I/work/blockchain/bitcoin/src/uint256.h",
+		"/I/work/blockchain/bitcoin/src/chain.cpp",
+		"/I/work/blockchain/bitcoin/doc/src_reading/initial_block_download.md",
+		"/I/work/blockchain/bitcoin/src/init.cpp",
+		"/I/work/blockchain/bitcoin/src/bitcoind.cpp",
+		"/I/work/blockchain/bitcoin/src/clientversion.h",
+		"/I/work/blockchain/bitcoin/src/test/skiplist_tests.cpp",
+		"/I/work/blockchain/bitcoin/src/test/pow_tests.cpp",
+		"/I/work/blockchain/bitcoin/src/validation.cpp",
+		"/I/work/blockchain/bitcoin/configure.ac",
+		"/I/work/blockchain/bitcoin/src/net.cpp",
+		"/I/work/blockchain/peatio/lib/daemons/amqp_daemon.rb",
+		"/I/work/blockchain/peatio/app/controllers/private/history_controller.rb",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/sublemacspro.sublime-settings",
+		"/I/work/blockchain/peatio/lib/generators/deposit/deposit_generator.rb",
+		"/I/work/blockchain/peatio/config/application.rb",
+		"/I/work/blockchain/peatio/config/routes.rb",
+		"/I/work/blockchain/peatio/app/helpers/two_factor_helper.rb",
+		"/I/work/blockchain/peatio/public/templates/funds/_two_factor_auth.html",
+		"/I/work/blockchain/peatio/app/controllers/two_factors_controller.rb",
+		"/I/work/blockchain/peatio/app/controllers/verify/google_auths_controller.rb",
+		"/I/work/blockchain/peatio/spec/support/login_helper.rb",
+		"/I/work/blockchain/peatio/spec/spec_helper.rb",
+		"/I/work/blockchain/peatio/app/models/account.rb",
+		"/I/work/blockchain/peatio/app/controllers/private/order_asks_controller.rb",
+		"/I/work/blockchain/peatio/app/models/account_version.rb",
+		"/I/work/blockchain/peatio/app/models/currency.rb",
+		"/I/work/blockchain/peatio/app/models/order.rb",
+		"/I/work/blockchain/peatio/app/controllers/verify/sms_auths_controller.rb",
+		"/I/work/blockchain/peatio/doc/setup-local-osx.md",
+		"/I/work/blockchain/peatio/app/models/matching/market_order.rb",
+		"/I/work/blockchain/peatio/app/models/matching/engine.rb",
+		"/I/work/blockchain/peatio/app/controllers/private/order_bids_controller.rb",
+		"/I/work/blockchain/peatio/app/controllers/concerns/order_creation.rb",
+		"/I/work/blockchain/peatio/app/services/ordering.rb",
+		"/I/work/blockchain/peatio/lib/benchmark/matching.rb",
+		"/I/work/blockchain/peatio/app/models/worker/matching.rb",
+		"/I/work/blockchain/peatio/app/models/matching/order_book_manager.rb",
+		"/I/work/blockchain/peatio/app/models/order_bid.rb",
+		"/I/work/blockchain/peatio/app/models/amqp_config.rb",
+		"/I/work/blockchain/peatio/config/amqp.yml",
+		"/I/work/blockchain/bitcoin/doc/README.md",
+		"/I/work/blockchain/bitcoin/doc/assets-attribution.md",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/Emacs Pro Essentials/sublemacspro.sublime-settings",
+		"/I/work/blockchain/peatio/app/models/matching/executor.rb",
+		"/I/work/blockchain/peatio/app/models/member.rb",
+		"/I/work/blockchain/peatio/app/models/deposit_channel.rb",
+		"/I/work/blockchain/peatio/app/models/trade.rb",
+		"/I/work/blockchain/peatio/app/models/worker/pusher_market.rb",
+		"/I/work/blockchain/peatio/app/models/global.rb",
+		"/I/work/blockchain/peatio/db/schema.rb",
+		"/I/work/blockchain/peatio/lib/daemons/trade_executor_ctl",
+		"/I/work/blockchain/peatio/app/models/worker/trade_executor.rb",
+		"/I/work/blockchain/peatio/app/controllers/sessions_controller.rb",
+		"/I/work/blockchain/peatio/app/controllers/identities_controller.rb",
+		"/I/work/blockchain/peatio/app/models/amqp_queue.rb",
+		"/I/work/blockchain/peatio/app/mailers/member_mailer.rb",
+		"/I/work/blockchain/peatio/lib/tasks/migration.rake",
+		"/I/work/blockchain/peatio/app/models/worker/slave_book.rb",
+		"/I/work/blockchain/peatio/app/controllers/admin/base_controller.rb",
+		"/I/work/blockchain/peatio/app/models/market.rb",
+		"/I/work/blockchain/peatio/app/models/concerns/international.rb",
+		"/I/work/blockchain/peatio/app/models/matching/limit_order.rb",
+		"/I/work/blockchain/peatio/app/models/matching/order_book.rb",
+		"/I/work/blockchain/peatio/app/models/matching/price_level.rb",
+		"/I/work/blockchain/peatio/config/application.yml",
+		"/I/work/blockchain/peatio/app/models/id_document.rb",
+		"/I/work/blockchain/peatio/app/controllers/admin/id_documents_controller.rb",
+		"/I/work/blockchain/peatio/app/controllers/private/id_documents_controller.rb",
+		"/I/work/blockchain/peatio/app/views/sessions/new.html.slim",
+		"/I/work/blockchain/peatio/app/models/signup_history.rb",
+		"/I/work/blockchain/peatio/app/controllers/application_controller.rb",
+		"/I/work/blockchain/peatio/Gemfile",
+		"/I/work/blockchain/peatio/app/models/two_factor.rb",
+		"/I/work/blockchain/peatio/app/models/two_factor/sms.rb",
+		"/I/work/blockchain/peatio/app/models/token/activation.rb",
+		"/I/work/blockchain/peatio/app/models/token.rb",
+		"/I/work/blockchain/peatio/app/models/authentication.rb",
+		"/I/work/blockchain/peatio/app/models/identity.rb",
+		"/I/work/blockchain/peatio/config/initializers/omniauth.rb",
+		"/I/work/blockchain/omniauth-master/lib/omniauth/builder.rb",
+		"/I/work/blockchain/peatio/config/initializers/secret_token.rb",
+		"/I/work/qipai/client/build/jsb-default/frameworks/runtime-src/proj.android/AndroidManifest.xml",
+		"/I/work/qipai/client/build/jsb-default/frameworks/runtime-src/proj.android/jni/Android.mk",
+		"/I/work/qipai/client/build/jsb-default/frameworks/runtime-src/proj.android/jni/Application.mk",
+		"/I/work/qipai/client/build/jsb-default/frameworks/runtime-src/proj.android/local.properties",
+		"/I/work/qipai/client/build/jsb-default/frameworks/runtime-src/proj.android/build.xml",
+		"/I/work/qipai/client/build/jsb-default/frameworks/runtime-src/proj.android/project.properties",
+		"/I/work/blockchain/peatio/app/api/api_v2/mount.rb",
+		"/I/work/blockchain/peatio/app/views/admin/members/index.html.slim",
+		"/I/work/blockchain/peatio/app/controllers/private/funds_controller.rb",
+		"/I/work/blockchain/peatio/app/controllers/admin/deposits/satoshis_controller.rb",
+		"/I/work/blockchain/peatio/app/controllers/admin/dashboard_controller.rb",
+		"/I/work/blockchain/peatio/log/development.log",
+		"/I/work/12/New/TS2_ZONE/src/Equip/EquipShenSuite.cpp",
+		"/I/work/qipai/server/pdk_server/socket_service.js",
+		"/I/work/qipai/server/pdk_server/gamemgr_xzdd.js",
+		"/I/work/qipai/server/majiang_server/gamemgr_xlch.js",
+		"/I/work/qipai/server/majiang_server/gamemgr_xzdd.js",
+		"/I/work/qipai/server/pdk_server/gamemgr_xlch.js",
+		"/I/work/qipai/server/majiang_server/usermgr.js",
+		"/I/work/qipai/server/majiangBaseServer/test/pdkLogicTest.js",
+		"/I/work/qipai/server/majiangBaseServer/test/pdkTest.js",
+		"/I/work/qipai/server/majiangBaseServer/Global.js",
+		"/I/work/qipai/pdk/jjzxpdk/proj.android/jni/Android.mk",
+		"/I/work/qipai/server/majiang_server/player.js",
+		"/I/work/qipai/server/majiangBaseServer/test/roomManagerTest.js",
+		"/I/work/qipai/server/majiangBaseServer/test/roomTest.js",
+		"/I/work/qipai/server/majiang_server/roommgr.js",
+		"/I/work/qipai/server/majiangBaseServer/RoomManager.js",
+		"/I/work/qipai/server/majiangBaseServer/Room.js",
+		"/I/work/qipai/server/majiangBaseServer/Board.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"I:\\work\\blockchain\\bitcoin,-*.md,*.cpp",
+			"I:\\work\\blockchain\\bitcoin,-*.md,*tests.cpp",
+			"I:\\work\\blockchain\\bitcoin,-*.md",
+			"I:\\work\\blockchain\\bitcoin",
+			"I:\\work\\blockchain\\peatio",
+			"I:\\work\\blockchain\\peatio,*.rb",
+			"I:\\work\\blockchain\\peatio",
+			"I:\\work\\blockchain\\peatio,-/*spec/*",
+			"I:\\work\\blockchain\\omniauth-master",
+			"-/*spec/*,I:\\work\\blockchain\\omniauth-master",
+			"I:\\work\\blockchain\\peatio,-/*spec/*,I:\\work\\blockchain",
+			"I:\\work\\blockchain\\peatio,-/*spec/*",
+			"I:\\work\\blockchain\\peatio,-/*spec/",
+			"I:\\work\\blockchain\\peatio,-*/spec/",
+			"I:\\work\\blockchain\\peatio",
+			"I:\\work\\blockchain",
+			"I:\\work\\qipai\\server",
+			"I:\\work\\12\\New\\TS2_ZONE\\src",
+			"I:\\work\\qipai\\server",
+			"I:\\work\\qipai\\client\\assets\\",
+			"I:\\work\\qipai\\client\\assets\\scripts",
+			"I:\\work\\qipai\\fkDDZ\\房卡斗地主服务端源码\\脚本代码\\脚本代码",
+			"I:\\work\\12\\Tai2",
+			"I:\\work\\qipai\\client",
+			"F:\\server\\cj-svn-clean\\qipai\\server",
+			"F:\\server\\cj-svn\\trunk\\New\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\New\\TS2_PLAYUSER",
+			"F:\\server\\cj-svn\\trunk\\New\\TS2_ZONE",
+			"F:\\server\\cj-svn-clean\\qipai\\server",
+			"F:\\dev\\cocos_allinone\\sample\\js麻将\\ddmj_20161230\\client\\assets\\scripts,F:\\dev\\cocos_allinone\\sample\\js麻将\\server\\server",
+			"F:\\dev\\cocos_allinone\\sample\\js麻将\\ddmj_20161230\\client\\assets\\scripts;F:\\dev\\cocos_allinone\\sample\\js麻将\\server\\server",
+			"F:\\dev\\cocos_allinone\\sample\\js麻将\\ddmj_20161230\\client\\assets\\scripts",
+			"F:\\server\\cj-svn\\trunk\\New\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine-0.9.7",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine_demos_assets-0.9.7\\",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine-0.9.7",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine_demos_assets-0.9.7\\",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine-0.9.7",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine_demos_assets-0.9.7\\",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\branches\\kbengine\\kbengine-0.9.7\\kbe",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_extra",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_extra",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_LOGIN",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_LOGIN",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_PLAYUSER",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_CENTER",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_LOGIN",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE\\src\\Zone",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_PLAYUSER",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_CENTER",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_CENTER",
+			"F:\\server\\cj-svn\\trunk\\server\\TS2_ZONE\\src",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_playuser",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_playuser",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_playuser",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_playuser",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_playuser",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_PLAYUSER",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_extra",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_login",
+			"F:\\server\\12sky_utf8\\TS2_zone",
+			"F:\\server\\12sky_utf8\\TS2_EXTRA",
+			"F:\\server\\12sky_utf8\\TS2_ZONE",
+			"F:\\server\\cj-svn\\t",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_extra",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_center",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_center",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_playuser",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_ZONE",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\server\\",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_playuser",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_playeruser",
+			"F:\\server\\cj-svn\\trunk\\server\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\eu",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_playuser",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_playuser",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_zone",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_login",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_PLAYUSER",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_center",
+			"F:\\server\\cj-svn\\trunk\\eu\\ts2_login"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FindEarliestAtLeast",
+			"CChain",
+			"Unserialize",
+			"WriteCompactSize",
+			"uint8_t",
+			"ser_writedata8",
+			"Serialize",
+			"CSerializeMethodsTestSingle",
+			"uint256",
+			"GetMedianTimePast",
+			"GetAncestor",
+			"GetBlockProof",
+			"mempool",
+			"mapBlockIndex",
+			"CLIENT_VERSION_MAJOR",
+			"theme",
+			"two_factor_tag",
+			"two_factor_by_type",
+			".strike",
+			"origin_locked",
+			"estimate_required_funds",
+			"capybara",
+			"signin",
+			"def signin",
+			"deposits",
+			"market",
+			"AMQPQueue.enqueue",
+			"'submit'",
+			"reload",
+			"'reload'",
+			"dryrun",
+			"active",
+			"trigger_notify",
+			"origin_locked",
+			"compute_locked",
+			"avg_price",
+			"funds_used",
+			"origin_locked",
+			"OrderBookManager.new",
+			"_limit_top",
+			"two_factor_locked",
+			"TWILIO_SID",
+			"gen_code",
+			"Phonelib",
+			"auth/identity/register",
+			"path_prefix",
+			"register",
+			"has already been",
+			"has already been taken",
+			"has already",
+			"omniauth.identity",
+			"session[:member_id]",
+			"auth_member",
+			"identity",
+			"too_many_failed_login_attempts",
+			"auth_key",
+			"_peatio_session",
+			"cookies",
+			"data",
+			"_peatio_session",
+			"cookies['_peatio_session']",
+			"create_from_auth",
+			"send_activation",
+			"secret_key_base",
+			"two_factor_required",
+			"load_and_authorize_resource",
+			"id_document_verified",
+			"settings_path",
+			"Filter chain halted as :",
+			"Redirected to",
+			"add_user_gems",
+			"setMaxLife",
+			"getcriticalShenZu55",
+			"CHECK_SPEED_HACK",
+			"skillspeed",
+			"ShenZu55",
+			"getattackElementValueShenZu55",
+			"shenzu55",
+			"1160",
+			"1158",
+			"CHECK_SPEED_HACK",
+			"skillspeed",
+			"itemId1",
+			"getDefendCriticalShenZu6",
+			"getattackBlockShenZu6",
+			"ShenZu5(",
+			"getDefendCriticalShenZu5",
+			"1168",
+			"1186",
+			"getAntiCriticalValueByPKLevel",
+			"getCriticalValueByPKLevel",
+			"getDefendValueByPKLevel",
+			"getAttackValueByPKLevel",
+			"getHpValueByPKLevel",
+			"tPresentTime->tm_wday != 2",
+			"gainContribution",
+			"tPresentTime->tm_hour",
+			"22",
+			"==22",
+			"== 22",
+			"== 20",
+			"getPKTitleLevel",
+			"getAttackValueShenZu4",
+			"GetAttackPower",
+			"GetDefensePower",
+			"getDefendValueShenZu4",
+			"getAttackValueShenZu5",
+			"getAttackValueMingZu4",
+			"addAttackPowerBySuite",
+			"getAttackValueShenZu5",
+			"getFashionElementAttack",
+			"getFashionPropertyById",
+			"getFashionProperty",
+			"Value",
+			"pkLevel",
+			"B_CLEAN_TITLE_SEND",
+			"GET_WISDOM_TITLE",
+			"B_GET_TITLE_SEND",
+			"removeItem",
+			"GET_WISDOM_TITLE",
+			"CleanTitle",
+			"removeitem",
+			"delitem",
+			"addCash",
+			"isAllEquipStrongMax",
+			"1167",
+			"1168",
+			"mZone049TypeZoneIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/test/test_bitcoin.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1069,
+								1069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504187009.18,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/test/uint256_tests.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9449,
+								9449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504274586.28,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/hash.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504407784.53,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-ArcDark.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 730.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/test/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-ArcDark.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/streams.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10467,
+								10467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504449013.83,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5772.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/chain.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14821,
+								14821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1519040446.01,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8032.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/chain.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1746,
+								1765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504431506.44,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23639,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										230,
+										236
+									],
+									[
+										578,
+										584
+									],
+									[
+										860,
+										866
+									],
+									[
+										1204,
+										1210
+									],
+									[
+										1611,
+										1617
+									],
+									[
+										1650,
+										1656
+									],
+									[
+										1767,
+										1773
+									],
+									[
+										1806,
+										1812
+									],
+									[
+										1912,
+										1918
+									],
+									[
+										2181,
+										2187
+									],
+									[
+										2365,
+										2371
+									],
+									[
+										2505,
+										2511
+									],
+									[
+										2661,
+										2667
+									],
+									[
+										2760,
+										2766
+									],
+									[
+										2970,
+										2976
+									],
+									[
+										3091,
+										3097
+									],
+									[
+										3314,
+										3320
+									],
+									[
+										3525,
+										3531
+									],
+									[
+										3669,
+										3675
+									],
+									[
+										3999,
+										4005
+									],
+									[
+										4161,
+										4167
+									],
+									[
+										4206,
+										4212
+									],
+									[
+										4352,
+										4358
+									],
+									[
+										4614,
+										4620
+									],
+									[
+										4759,
+										4765
+									],
+									[
+										4915,
+										4921
+									],
+									[
+										5166,
+										5172
+									],
+									[
+										5404,
+										5410
+									],
+									[
+										5538,
+										5544
+									],
+									[
+										5678,
+										5684
+									],
+									[
+										5792,
+										5798
+									],
+									[
+										5846,
+										5852
+									],
+									[
+										5987,
+										5993
+									],
+									[
+										6140,
+										6146
+									],
+									[
+										6268,
+										6274
+									],
+									[
+										6399,
+										6405
+									],
+									[
+										6664,
+										6670
+									],
+									[
+										6828,
+										6834
+									],
+									[
+										7090,
+										7096
+									],
+									[
+										7437,
+										7443
+									],
+									[
+										7650,
+										7656
+									],
+									[
+										7784,
+										7790
+									],
+									[
+										8104,
+										8110
+									],
+									[
+										8466,
+										8472
+									],
+									[
+										8735,
+										8741
+									],
+									[
+										8837,
+										8843
+									],
+									[
+										9221,
+										9227
+									],
+									[
+										9569,
+										9575
+									],
+									[
+										9851,
+										9857
+									],
+									[
+										10195,
+										10201
+									],
+									[
+										10602,
+										10608
+									],
+									[
+										10641,
+										10647
+									],
+									[
+										10758,
+										10764
+									],
+									[
+										10797,
+										10803
+									],
+									[
+										10903,
+										10909
+									],
+									[
+										11142,
+										11148
+									],
+									[
+										11498,
+										11504
+									],
+									[
+										11798,
+										11804
+									],
+									[
+										11997,
+										12003
+									],
+									[
+										12218,
+										12224
+									],
+									[
+										12587,
+										12593
+									],
+									[
+										13114,
+										13120
+									],
+									[
+										13548,
+										13554
+									],
+									[
+										13830,
+										13836
+									],
+									[
+										14186,
+										14192
+									],
+									[
+										14426,
+										14432
+									],
+									[
+										14726,
+										14732
+									],
+									[
+										14936,
+										14942
+									],
+									[
+										15194,
+										15200
+									],
+									[
+										15380,
+										15386
+									],
+									[
+										15668,
+										15674
+									],
+									[
+										16085,
+										16091
+									],
+									[
+										16430,
+										16436
+									],
+									[
+										16744,
+										16750
+									],
+									[
+										16891,
+										16897
+									],
+									[
+										17116,
+										17122
+									],
+									[
+										17378,
+										17384
+									],
+									[
+										17643,
+										17649
+									],
+									[
+										17941,
+										17947
+									],
+									[
+										18159,
+										18165
+									],
+									[
+										18376,
+										18382
+									],
+									[
+										18600,
+										18606
+									],
+									[
+										18799,
+										18805
+									],
+									[
+										18990,
+										18996
+									],
+									[
+										19167,
+										19173
+									],
+									[
+										19280,
+										19286
+									],
+									[
+										19418,
+										19424
+									],
+									[
+										19543,
+										19549
+									],
+									[
+										19766,
+										19772
+									],
+									[
+										20094,
+										20100
+									],
+									[
+										20350,
+										20369
+									],
+									[
+										20751,
+										20770
+									],
+									[
+										21061,
+										21080
+									],
+									[
+										21233,
+										21252
+									],
+									[
+										21530,
+										21549
+									],
+									[
+										21753,
+										21772
+									],
+									[
+										21925,
+										21944
+									],
+									[
+										21998,
+										22017
+									],
+									[
+										22072,
+										22091
+									],
+									[
+										22146,
+										22165
+									],
+									[
+										22220,
+										22239
+									],
+									[
+										22294,
+										22313
+									],
+									[
+										22363,
+										22382
+									],
+									[
+										22433,
+										22452
+									],
+									[
+										22505,
+										22524
+									],
+									[
+										22586,
+										22605
+									],
+									[
+										22692,
+										22711
+									],
+									[
+										22803,
+										22822
+									],
+									[
+										22923,
+										22942
+									],
+									[
+										23012,
+										23031
+									],
+									[
+										23106,
+										23125
+									],
+									[
+										23421,
+										23440
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								21071,
+								21071
+							]
+						],
+						"settings":
+						{
+							"default_dir": "I:\\work\\blockchain\\bitcoin",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"touched": 1519041192.62
+						},
+						"translation.x": 0.0,
+						"translation.y": 9314.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/test/skiplist_tests.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4356,
+								4356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504431569.87,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1647.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/arith_uint256.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6986,
+								6986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504443287.52,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/crypto/common.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								931,
+								940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504443270.65,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 292.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/arith_uint256.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1210,
+								1210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504449011.55,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/uint256.h",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/serialize.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25308,
+								25308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504423696.04,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14887.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								988,
+								988
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-ArcDark.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"touched": 1504410580.2
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "CONTRIBUTING.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2326,
+								2326
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-ArcDark.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"touched": 1504417323.3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "src/primitives/transaction.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8938,
+								8938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504279545.21,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4815.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "src/support/allocators/zeroafterfree.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1452,
+								1452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504364044.91,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "src/support/cleanse.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"touched": 1504364459.59
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "src/leveldb/port/win/stdint.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"touched": 1504363284.69
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "src/prevector.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1345,
+								1345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1504357436.12,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 148.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bitcoind.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"contri",
+				"CONTRIBUTING.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"testread",
+				"src\\test\\README.md"
+			],
+			[
+				"seri",
+				"src\\serialize.h"
+			],
+			[
+				"build",
+				"doc\\build-unix.md"
+			],
+			[
+				"build-u",
+				"doc\\build-unix.md"
+			],
+			[
+				"clientver",
+				"src\\clientversion.h"
+			],
+			[
+				"bitcoind.cpp",
+				"src\\bitcoind.cpp"
+			],
+			[
+				"init.cpp",
+				"src\\init.cpp"
+			],
+			[
+				"two_factor_auth",
+				"public\\templates\\funds\\_two_factor_auth.html"
+			],
+			[
+				"googleau",
+				"app\\controllers\\verify\\google_auths_controller.rb"
+			],
+			[
+				"smsau",
+				"app\\controllers\\verify\\sms_auths_controller.rb"
+			],
+			[
+				"order",
+				"app\\models\\order.rb"
+			],
+			[
+				"orderask",
+				"app\\controllers\\private\\order_asks_controller.rb"
+			],
+			[
+				"account",
+				"app\\models\\account.rb"
+			],
+			[
+				"setup",
+				"doc\\setup-local-osx.md"
+			],
+			[
+				"market",
+				"app\\models\\matching\\market_order.rb"
+			],
+			[
+				"matching",
+				"app\\models\\worker\\matching.rb"
+			],
+			[
+				"match",
+				"lib\\benchmark\\matching.rb"
+			],
+			[
+				"orderbidcon",
+				"app\\controllers\\private\\order_bids_controller.rb"
+			],
+			[
+				"orderbidscon",
+				"app\\controllers\\private\\order_bids_controller.rb"
+			],
+			[
+				"engine",
+				"app\\models\\matching\\engine.rb"
+			],
+			[
+				"market_order",
+				"app\\models\\matching\\market_order.rb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"application",
+				"config\\application.rb"
+			],
+			[
+				"genera",
+				"lib\\generators\\deposit\\deposit_generator.rb"
+			],
+			[
+				"histor",
+				"app\\controllers\\private\\history_controller.rb"
+			],
+			[
+				"amqp",
+				"config\\amqp.yml"
+			],
+			[
+				"schem",
+				"db\\schema.rb"
+			],
+			[
+				"trade",
+				"app\\models\\worker\\trade_executor.rb"
+			],
+			[
+				"trade_exe",
+				"lib\\daemons\\trade_executor_ctl"
+			],
+			[
+				"gemf",
+				"peatio\\Gemfile"
+			],
+			[
+				"sms_auth",
+				"peatio\\app\\controllers\\verify\\sms_auths_controller.rb"
+			],
+			[
+				"sms",
+				"peatio\\app\\models\\two_factor\\sms.rb"
+			],
+			[
+				"sms_au",
+				"peatio\\app\\controllers\\verify\\sms_auths_controller.rb"
+			],
+			[
+				"id_docu",
+				"peatio\\app\\controllers\\private\\id_documents_controller.rb"
+			],
+			[
+				"id",
+				"peatio\\app\\controllers\\admin\\id_documents_controller.rb"
+			],
+			[
+				"id_do",
+				"peatio\\app\\models\\id_document.rb"
+			],
+			[
+				"identi",
+				"app\\controllers\\identities_controller.rb"
+			],
+			[
+				"sess",
+				"app\\controllers\\sessions_controller.rb"
+			],
+			[
+				"session",
+				"app\\controllers\\sessions_controller.rb"
+			],
+			[
+				"dashboardcontroller",
+				"app\\controllers\\admin\\dashboard_controller.rb"
+			],
+			[
+				"satoshiscontroller",
+				"app\\controllers\\admin\\deposits\\satoshis_controller.rb"
+			],
+			[
+				"fundscontroller",
+				"app\\controllers\\private\\funds_controller.rb"
+			],
+			[
+				"title",
+				"TS2_ZONE\\src\\handler\\Title.cpp"
+			],
+			[
+				"gameinit",
+				"TS2_ZONE\\src\\GameInit.cpp"
+			],
+			[
+				"protocolpro",
+				"TS2_ZONE\\src\\ProtocolHandlerProcess.cpp"
+			],
+			[
+				"server.cpp",
+				"TS2_ZONE\\src\\Server.cpp"
+			],
+			[
+				"game",
+				"majiang_server\\gamemgr_xzdd.js"
+			],
+			[
+				"gamenetmgr",
+				"scripts\\GameNetMgr.js"
+			],
+			[
+				"gamen",
+				"scripts\\GameNetMgr.js"
+			],
+			[
+				"glo",
+				"scripts\\Global.js"
+			],
+			[
+				"hall",
+				"scripts\\components\\Hall.js"
+			],
+			[
+				"time",
+				"scripts\\components\\TimePointer.js"
+			],
+			[
+				"http",
+				"majiang_server\\http_service.js"
+			],
+			[
+				"av",
+				"TS2_ZONE\\include\\Avatar.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"#joinB"
+			]
+		],
+		"width": 440.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

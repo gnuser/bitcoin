@@ -39,6 +39,8 @@
 ├── blockencodings.h
 ├── bloom.cpp
 ├── bloom.h
+```
+block以及blockchain定义
 ├── chain.cpp
 ├── chain.h
 ├── chainparamsbase.cpp
@@ -46,13 +48,18 @@
 ├── chainparams.cpp
 ├── chainparams.h
 ├── chainparamsseeds.h
+```
 ├── checkpoints.cpp
 ├── checkpoints.h
 ├── checkqueue.h
 ├── clientversion.cpp
 ├── clientversion.h
+```
 ├── coins.cpp
 ├── coins.h
+```
+```
+一些兼容性处理
 ├── compat
 │   ├── byteswap.h
 │   ├── endian.h
@@ -61,12 +68,17 @@
 │   ├── glibcxx_sanity.cpp
 │   ├── sanity.h
 │   └── strnlen.cpp
+```
 ├── compat.h
 ├── compressor.cpp
 ├── compressor.h
+```
+编译相关
 ├── config
 │   └── bitcoin-config.h.in
-├── consensus
+```
+```
+├── consensus # 验证blocks和transactions
 │   ├── consensus.h
 │   ├── merkle.cpp
 │   ├── merkle.h
@@ -74,10 +86,13 @@
 │   ├── tx_verify.cpp
 │   ├── tx_verify.h
 │   └── validation.h
+```
 ├── core_io.h
 ├── core_memusage.h
 ├── core_read.cpp
 ├── core_write.cpp
+```
+加密算法
 ├── crypto
 │   ├── aes.cpp
 │   ├── aes.h
@@ -97,6 +112,7 @@
 │   ├── sha256.h
 │   ├── sha512.cpp
 │   └── sha512.h
+```
 ├── cuckoocache.h
 ├── dbwrapper.cpp
 ├── dbwrapper.h
@@ -109,12 +125,14 @@
 ├── httpserver.cpp
 ├── httpserver.h
 ├── indirectmap.h
-├── init.cpp
+├── init.cpp # 初始化流程
 ├── init.h
 ├── key.cpp
 ├── key.h
 ├── keystore.cpp
 ├── keystore.h
+```
+leveldb库
 ├── leveldb
 │   ├── AUTHORS
 │   ├── build_detect_platform
@@ -133,6 +151,7 @@
 │   ├── TODO
 │   ├── util
 │   └── WINDOWS.md
+```
 ├── limitedmap.h
 ├── Makefile.am
 ├── Makefile.bench.include
@@ -144,8 +163,13 @@
 ├── memusage.h
 ├── merkleblock.cpp
 ├── merkleblock.h
+```
+挖矿相关
 ├── miner.cpp
 ├── miner.h
+```
+```
+这些文件实现了网络部分，包括peer连接等
 ├── netaddress.cpp
 ├── netaddress.h
 ├── netbase.cpp
@@ -155,11 +179,16 @@
 ├── netmessagemaker.h
 ├── net_processing.cpp
 ├── net_processing.h
+```
 ├── noui.cpp
 ├── noui.h
+```
+编译相关
 ├── obj
 ├── obj-test
-├── policy
+```
+```
+├── policy # 特定node规则实现
 │   ├── feerate.cpp
 │   ├── feerate.h
 │   ├── fees.cpp
@@ -168,18 +197,24 @@
 │   ├── policy.h
 │   ├── rbf.cpp
 │   └── rbf.h
+```
 ├── pow.cpp
 ├── pow.h
 ├── prevector.h
+```
+基础数据结构定义
 ├── primitives
 │   ├── block.cpp
 │   ├── block.h
 │   ├── transaction.cpp
 │   └── transaction.h
+```
 ├── protocol.cpp
 ├── protocol.h
 ├── pubkey.cpp
 ├── pubkey.h
+```
+qt界面部分
 ├── qt
 │   ├── addressbookpage.cpp
 │   ├── addressbookpage.h
@@ -295,6 +330,7 @@
 │   ├── walletview.h
 │   ├── winshutdownmonitor.cpp
 │   └── winshutdownmonitor.h
+```
 ├── random.cpp
 ├── random.h
 ├── rest.cpp
@@ -315,6 +351,8 @@
 │   └── server.h
 ├── scheduler.cpp
 ├── scheduler.h
+```
+脚本引擎
 ├── script
 │   ├── bitcoinconsensus.cpp
 │   ├── bitcoinconsensus.h
@@ -332,6 +370,9 @@
 │   ├── sign.h
 │   ├── standard.cpp
 │   └── standard.h
+```
+```
+ECDSA加密
 ├── secp256k1
 │   ├── aclocal.m4
 │   ├── autogen.sh
@@ -350,6 +391,7 @@
 │   ├── sage
 │   ├── src
 │   └── TODO
+```
 ├── serialize.h
 ├── streams.h
 ├── support
@@ -361,6 +403,8 @@
 │   └── lockedpool.h
 ├── sync.cpp
 ├── sync.h
+```
+测试相关，使用boost单元测试框架
 ├── test
 │   ├── addrman_tests.cpp
 │   ├── allocator_tests.cpp
@@ -427,6 +471,7 @@
 │   ├── univalue_tests.cpp
 │   ├── util_tests.cpp
 │   └── versionbits_tests.cpp
+```
 ├── threadinterrupt.cpp
 ├── threadinterrupt.h
 ├── threadsafety.h
@@ -444,6 +489,8 @@
 ├── uint256.cpp
 ├── uint256.h
 ├── undo.h
+```
+通用value对象库
 ├── univalue
 │   ├── aclocal.m4
 │   ├── autogen.sh
@@ -463,6 +510,7 @@
 │   ├── TODO
 │   ├── univalue-config.h.in
 │   └── univalue-config.h.in~
+```
 ├── util.cpp
 ├── util.h
 ├── utilmoneystr.cpp
@@ -496,6 +544,8 @@
 │   └── wallet.h
 ├── warnings.cpp
 ├── warnings.h
+```
+zmq异步消息库
 └── zmq
     ├── zmqabstractnotifier.cpp
     ├── zmqabstractnotifier.h
@@ -504,3 +554,4 @@
     ├── zmqnotificationinterface.h
     ├── zmqpublishnotifier.cpp
     └── zmqpublishnotifier.h
+```

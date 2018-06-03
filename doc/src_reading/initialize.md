@@ -29,7 +29,7 @@ AppInit也定义在bitcoind.cpp，流程如下：
 - 创建子进程(如果是后台运行)
 - 进入AppInitMain函数，执行后续流程
 
-AppInitMain函数在init.cpp文件,流程如下：
+AppInitMain函数在init.cpp文件，流程如下：
 - 锁住数据文件目录
 - 创建pid文件
 - 检查压缩debug.log文件
@@ -45,3 +45,11 @@ AppInitMain函数在init.cpp文件,流程如下：
 	- 加载blockchain到mapBlockIndex(将会花费10-20秒)
 	- UTXO设置
 - 加载钱包	
+- 数据目录维护
+- 导入blocks
+- 启动node
+- Finished
+
+初始化完成后，回到bitcoind.cpp
+调用 **WaitForShutdown** 进入无限循环，等待退出事件
+**Shutdown**函数需要保证文件写入和缓存保存，关闭RPC服务，关闭node，注销掉信号处理等等
