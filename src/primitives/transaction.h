@@ -16,11 +16,12 @@ static const int SERIALIZE_TRANSACTION_NO_WITNESS = 0x40000000;
 static const int WITNESS_SCALE_FACTOR = 4;
 
 /** An outpoint - a combination of a transaction hash and an index n into its vout */
+/** 一个交易hash和输出索引的组合 */
 class COutPoint
 {
 public:
-    uint256 hash;
-    uint32_t n;
+    uint256 hash;   // 交易hash
+    uint32_t n;     // 索引
 
     COutPoint(): n((uint32_t) -1) { }
     COutPoint(const uint256& hashIn, uint32_t nIn): hash(hashIn), n(nIn) { }
@@ -36,17 +37,20 @@ public:
     void SetNull() { hash.SetNull(); n = (uint32_t) -1; }
     bool IsNull() const { return (hash.IsNull() && n == (uint32_t) -1); }
 
+    // 小于比较符
     friend bool operator<(const COutPoint& a, const COutPoint& b)
     {
         int cmp = a.hash.Compare(b.hash);
         return cmp < 0 || (cmp == 0 && a.n < b.n);
     }
 
+    // 等于比较符
     friend bool operator==(const COutPoint& a, const COutPoint& b)
     {
         return (a.hash == b.hash && a.n == b.n);
     }
 
+    // 不等于比较符
     friend bool operator!=(const COutPoint& a, const COutPoint& b)
     {
         return !(a == b);
@@ -59,12 +63,15 @@ public:
  * transaction's output that it claims and a signature that matches the
  * output's public key.
  */
+/** 
+ * 交易的输入. 包含上个交易的输出位置,并且含有匹配该输出公钥的签名
+ */
 class CTxIn
 {
 public:
-    COutPoint prevout;
-    CScript scriptSig;
-    uint32_t nSequence;
+    COutPoint prevout;  // 上一笔输出
+    CScript scriptSig;  // 脚本签名
+    uint32_t nSequence; // 序列号
     CScriptWitness scriptWitness; //! Only serialized through CTransaction
 
     /* Setting nSequence to this value for every input in a transaction

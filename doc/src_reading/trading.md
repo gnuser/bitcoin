@@ -398,6 +398,7 @@ bool CWallet::CreateTransaction(const std::vector<CRecipient>& vecSend, CWalletT
                 // to avoid conflicting with other possible uses of nSequence,
                 // and in the spirit of "smallest possible change from prior
                 // behavior."
+                // 设置sequence
                 bool rbf = coinControl ? coinControl->signalRbf : fWalletRbf;
                 const uint32_t nSequence = rbf ? MAX_BIP125_RBF_SEQUENCE : (std::numeric_limits<unsigned int>::max() - 1);
                 for (const auto& coin : setCoins)
@@ -410,7 +411,7 @@ bool CWallet::CreateTransaction(const std::vector<CRecipient>& vecSend, CWalletT
                     strFailReason = _("Signing transaction failed");
                     return false;
                 }
-
+                // 计算交易的字节数
                 nBytes = GetVirtualTransactionSize(txNew);
 
                 // Remove scriptSigs to eliminate the fee calculation dummy signatures
