@@ -519,3 +519,31 @@ void GenerateBitcoins(bool fGenerate, int nThreads, const CChainParams& chainpar
     for (int i = 0; i < nThreads; i++)
         minerThreads->create_thread(boost::bind(&BitcoinMiner, boost::cref(chainparams)));
 }
+
+void getGenesisBlock(CBlock *pblock) // 获取创世区块的基本信息（nNonce, hash, merkleroot）
+{
+   arith_uint256 hashTarget = arith_uint256().SetCompact(pblock->nBits);
+   printf("hashTarget: %s\n", hashTarget.ToString().c_str());
+   uint256 hash;
+   uint32_t nNonce = 0;
+   int64_t nStart = GetTime();
+   while (true) {
+       if (ScanHash(pblock, nNonce, &hash))
+       {
+           printf("block hash: %s", hash.ToString().c_str());
+           if (UintToArith256(hash) <= hashTarget)
+           {
+      	        printf(" true\n"
+       	        "Congratulation! You found the genesis block. total time: %lds\n"
+       	        "the nNonce: %u\n"
+       	        "genesis block hash: %s\n"
+       	        "genesis block merkle root: %s\n", GetTime() - nStart, nNonce, hash.ToString().c_str(), pblock->hashMerkleRoot.ToString().c_str());
+       	    break;
+           }
+           else
+           {
+               printf(" false\n");
+           }
+       }
+   }
+}
